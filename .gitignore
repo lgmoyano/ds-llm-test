@@ -1,0 +1,11 @@
+.chainlit/
+.DS_Store
+*.docx
+__pycache__/
+static/
+venv/
+.env/
+*.log
+.ipynb_checkpoints/
+venv_excelia_test
+.vscode
